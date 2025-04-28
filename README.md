@@ -277,7 +277,7 @@ for j in chosen:
 ```
 
 Полная реализация на Python:
-```
+```python
 def rearrange():
     n = int(input())
     a = [int(x) for x in input().split()]
